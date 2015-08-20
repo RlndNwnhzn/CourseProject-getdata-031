@@ -4,8 +4,8 @@
 
 This is an overview of the data fields in the tidy data set. The tidy data set is a summarized version of the Human Activity Recognition Using Smartphones Dataset:
 
-**  the observations of the original data set are summarized based on subject and activity, averaging the measurements
-**  only the mean values and the standard deviations of the signals are kept in the new data set
+*  the observations of the original data set are summarized based on subject and activity, averaging the measurements
+*  only the mean values and the standard deviations of the signals are kept in the new data set
 
 For each record it is provided:
 
